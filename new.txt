@@ -1,0 +1,16 @@
+Patzo Mobile App
+
+Pet Social media
+
+are you a woof-woof?
+are you a hooman?
+
+
+
+As a user i want to maintain a profile.
+As a pet lover i want to show my pet to others
+As a pet lover i want to see others pets
+As a pet lover i want to get advice from vets or experts
+As a owner i want to sell my pet.
+As a vet or expert i want to give advice.
+

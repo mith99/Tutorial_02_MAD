@@ -1,0 +1,3 @@
+Set Victuals - In order to make victuals, the ingredient and quantities should be added. After the Victual setting, the selling rate will be set and the information will be saved.
+
+Set Menus – 
